@@ -13,7 +13,8 @@ public class Hello {
 	}
 
 
-	public void say() {
+	public String say() {
 		return message;
 	}
+	
 }
